@@ -20,7 +20,7 @@
 
 title: My blog dancing Scrumba like Samba :) 
 description: Hi! I'm Pinar, a passionate Agilist coaching software development teams to get self organised. 
-baseurl: "/scrumba" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: pinar_gazel
 github_username: pinarg

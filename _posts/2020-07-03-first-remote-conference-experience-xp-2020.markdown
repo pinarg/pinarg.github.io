@@ -16,7 +16,7 @@ His talk discussed how to make every employee feel safe and comfortable and give
 Together, with his colleagues in the playback tribe, they developed a great psychological safety toolkit that helps you find out how to make your team members easily ask questions, raise problems, disagree, take risks, make mistakes and be themselves.
 Marcin’s Psychologic Safety toolkit will inspire you.
 
-![Blog](/scrumba/assets/images/blog1.png)
+![Blog](/assets/images/blog1.png)
 
 ## Why does Psychologic Safety matter?
 Looking for a new job and having job interviews at the moment made me realise that lots of companies need to understand the difference between doing Agile and Being Agile.
@@ -35,19 +35,19 @@ Anders presented the idea that you can enable radical innovation. We should stop
 Companies often set up strategies first and only support the ideas that fit in and then they get stuck into them. Should we not explore first what’s really needed and then set up the strategy on the basis of this learning?
 
 
-![Blog](/scrumba/assets/images/blog2.png)  
+![Blog](/assets/images/blog2.png)  
 **You know the steps from right to left ;)**
 
 You know the steps from right to left :D
 It was also amazing to hear that you can decide whether you want to be an introvert or an extrovert company :) Being an extroverted company means that you create value for customers with a disruptor’s mindset and radical ideas.
 
-![Blog](/scrumba/assets/images/blog3.png)
+![Blog](/assets/images/blog3.png)
 
 In my own experience I see companies trying to keep implementing a framework although some parts of it do not match with the needs of some teams any more. One example is the release planning part of the SAFe framework. Release planing can make sense when all the teams depend on one another. But there are teams without such dependencies and they are often forced to wait until the next release planning session to plan the next iteration.
 Although the conference was online I met new cool people and old friends during the breaks facilitated by Frederik Vannieuwenhuyse using Liberating Structures and via the Hallway discussion forum “Gather Town”. Another nice tool I learned about is menti.com for getting real-time feedback.
 Of course, no one could stop me from meeting old good friends who also attended the XP 2020 for an online after-conference beer :)
 
-![Blog](/scrumba/assets/images/blog4.png)
+![Blog](/assets/images/blog4.png)
 
 It was fun and hope to see guys next year.
 Take care of yourself, stay safe and healthy.  

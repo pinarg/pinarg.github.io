@@ -25,7 +25,7 @@ Openness
 
 At this point, I’d like to mention Christopher Avery’s “Responsibility Process”
 
-![The Responsibility Process](/scrumba/assets/images/responsibility-process.png)
+![The Responsibility Process](/assets/images/responsibility-process.png)
 
 This helps me a lot to explain and teach my team about not giving up and learn how to take the ownership to solve our problems and to use this tool to understand the Scum value “commitment” better and distinguish it from obligation.
 Hope you enjoyed reading this blog article. Don’t forget to trust yourself ;)

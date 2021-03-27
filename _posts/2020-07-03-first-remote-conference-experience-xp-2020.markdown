@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "First Remote Conference Experience: XP'20"
+date:   2020-07-03 10:06:30 +0100
+categories: blog
+---
+
+
 First Remote Conference Experience: XP 2020
 The Coronavirus Pandemic took my job away. At the same time, it gave me the opportunity to gain my first experience of working with remote teams and attending remote conferences and meet-ups.
 ## My Impressions of XP 2020

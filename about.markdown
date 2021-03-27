@@ -4,15 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Hi!
+I’m Pinar Gazel, an Agilist coaching development teams to get self-organised and to achieve their defined goals. Helping teams unknot difficult impediments and conflicts is my definition of happy :)     
+I love seeing the aha moments when my coachees begin to realise how much more potential they can unlock once they find out how to get in balance and take into account different important aspects that impact the success of a self-organizing team.  I love to energize others and put them into action.

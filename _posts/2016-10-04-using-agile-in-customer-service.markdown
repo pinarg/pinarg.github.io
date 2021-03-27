@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Using Agile in customer service"
-date:   2016-03-14 00:06:30 +0100
+date:   2016-10-04 10:06:30 +0100
 categories: blog
 ---
 
@@ -13,19 +13,20 @@ Many people think that Agile processes and methodologies including Scrum and Kan
 
 However what is Agile? The terms of Agile (from the Agile Manifesto)
 
-Individuals and Interactions over processes and tools
-Working Software over comprehensive documentation
-Customer Collaboration over contract negotiation
-Responding to Change over following a plan
+1. Individuals and Interactions over processes and tools
+2. Working Software over comprehensive documentation
+3. Customer Collaboration over contract negotiation
+4. Responding to Change over following a plan
+
 Point 2 is difficult to apply outside of software development but obviously can be applied to development of physical production. However, I will focus on the remaining three terms and discuss how they can be applied to a customer service department.
 
-Individuals and Interactions over processes and tools
+## Individuals and Interactions over processes and tools 
 Many Customer Service departments use tools for handling tickets such as Novamind or Jira. These are extremely important and no sizeable department could run efficiently without them. However, one must remember that a Customer Service department is all about individual customers and the interactions with them. Their satisfaction is often a key goal of a department and we should not loose site of this when thinking about the tools that we use.
 
-Customer Collaboration over contract negotiation
+## Customer Collaboration over contract negotiation
 Similar, we are communicating with customers as part of our job and although they often have a contract with us, we should remember that we always want a win-win outcome with the customer and should try to avoid discussing about the finer points of the contact.
 
-Responding to Change
+## Responding to Change
 In a Customer Service department things often change - new products are launched, new targets are set by the business, customer numbers increase.
 
 This is the most important area where agile principles can be well applied to the department. Agile means being able to adapt processes quickly and effectively measure if they have had a positive outcome.
@@ -34,13 +35,11 @@ A good example is how to organise co-workers for answering customer calls. Altho
 
 However, it can often be more complicated, especially when there are two conflicting KPIs to achieve. For example:
 
-90% of calls are answered within 1 minute
-Hi! I’m Pinar Gazel, an Agilist coaching development teams to get self-organised and to achieve their defined goals by using frameworks like Kanban, Scrum and Scrumban.
+1. 90% of calls are answered within 1 minute
+2. 90% of emails are answered within 3 hours  
 
-To find out more about me read my blogs on this site and follow me on Twitter at @pinar_gazel
-
-Email: mail@pinargazel.com
-90% of emails are answered within 3 hours
 If staff are taking customer calls and also answering emails, the productivity of answering emails will be reduced, and possibly the quality of the email responses will drop as staff will get distracted in the middle of replying to an email when they receive a call.
 
 Therefore we should experiment with having staff working just on one task (email or calls), or on both tasks, and by changing the numbers slightly each few days and measuring the results we can see if our small changes have improved the process and hence our KPIs.
+
+

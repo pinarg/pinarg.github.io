@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My Impressions of XP 2018"
+title: "My Impressions of XP'18"
 date: 2018-06-18 10:00:01 +0100
 categories: blog
 ---

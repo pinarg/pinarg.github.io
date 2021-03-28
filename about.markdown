@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+![about](/assets/images/about-pic.jpg){: style="float: left; margin-right: 1em"}
+
 Hi!  
 
 I’m Pinar Gazel, an Agilist coaching development teams to get self-organised and to achieve their defined goals. Helping teams unknot difficult impediments and conflicts is my definition of happy :)  
